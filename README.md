@@ -6,6 +6,10 @@ For help/support questions, please go to the EE Keeper topic on the [Beamdog for
 
 Version Information
 ===================
+1.0.3.2a
+--------
+* Mac-only release to update Wineskin wrapper to v2.6.1 for El Capitan compatibility.
+
 1.0.3.2
 -------
 * Mac Specific - Settings are now stored outside the EEKeeper.app package.  See the details [here](https://github.com/AstroBryGuy/EEKeeper-OSX/releases/tag/1.0.3.2).
