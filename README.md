@@ -6,6 +6,15 @@ For help/support questions, please go to the EE Keeper topic on the [Beamdog for
 
 Version Information
 ===================
+1.0.3.4
+--------
+* Fix for multiplayer games on SoD.
+
+1.0.3.3
+--------
+* Support for additional campaigns (e.g., SoD).
+* Support for DLC .zip files (e.g., Steam and GOG).
+
 1.0.3.2a
 --------
 * Mac-only release to update Wineskin wrapper to v2.6.1 for El Capitan compatibility.
