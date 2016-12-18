@@ -6,6 +6,10 @@ For help/support questions, please go to the EE Keeper topic on the [Beamdog for
 
 Version Information
 ===================
+1.0.3.6
+--------
+* Update to v1.0.3.6 executable
+
 1.0.3.4
 --------
 * Fix for multiplayer games on SoD.
