@@ -1,3 +1,14 @@
+EE Keeper-OS X
+==============
+I've created a Wineskin wrapper for Troodon80's EE Keeper, and I'm happy to share it with other Mac users out there. 
+
+The lastest version can be found at: https://github.com/AstroBryGuy/EEKeeper-OSX/releases
+
+Link to the main EE Keeper thread: http://forum.baldursgate.com/discussion/16497/ee-keeper-updated-to-v1-0-2/p1
+
+Note about OS X's GateKeeper. If you try to launch EEKeeper and get an error saying its not from the Mac App Store and its not digitally signed, then the first time you run it, you need to right click (secondary click) it, and select the "Open" option, and it will ask if you are sure that you want to open the app. Press OK to confirm. After opening the app once this way, you should be able to open it normally.
+
+
 EE Keeper
 =========
 Currently works on XP SP2/SP3, Windows Vista, Windows 7, Windows 8, and Windows 10. Mac is also semi-supported through use of Wineskin, and Linux with Wine.
@@ -6,6 +17,12 @@ For help/support questions, please go to the EE Keeper topic on the [Beamdog for
 
 Version Information
 ===================
+1.0.4.0 (PST:EE Compatible)
+--------
+* Support for reading a modular inventory based on the inventory slots table
+* Added option to add items as either a stack (e.g. 1 arrow or a full stack of 80); note: this does not apply to item charges, only stacks
+* Added Game Time, World Time, as well as being able to change the length of time a character has been in the party
+
 1.0.3.6
 --------
 * Update to v1.0.3.6 executable
