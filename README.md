@@ -17,6 +17,10 @@ For help/support questions, please go to the EE Keeper topic on the [Beamdog for
 
 Version Information
 ===================
+1.0.4.0a (High Sierra Compatible)
+--------
+* Disabled GPU auto-detection for High Sierra compatibility.
+
 1.0.4.0 (PST:EE Compatible)
 --------
 * Support for reading a modular inventory based on the inventory slots table
