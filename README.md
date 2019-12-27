@@ -8,6 +8,8 @@ Link to the main EE Keeper thread: http://forum.baldursgate.com/discussion/16497
 
 Note about OS X's GateKeeper. If you try to launch EEKeeper and get an error saying its not from the Mac App Store and its not digitally signed, then the first time you run it, you need to right click (secondary click) it, and select the "Open" option, and it will ask if you are sure that you want to open the app. Press OK to confirm. After opening the app once this way, you should be able to open it normally.
 
+Note for macOS Catalina (10.15.x) - Wine is currently NOT compatible with macOS Catalina. Please don't open bug reports about compatibility issues with Catalina. 
+
 
 EE Keeper
 =========
